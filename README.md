@@ -30,7 +30,7 @@ This Arduino library provides support for the **7Semi MCP23017 I/O Expander Modu
 
 Then include in your sketch:
 
-#include <7semi_mcp23017.h>
+  - #include <7semi_mcp23017.h>
 
 ### 2.Wiring
 
@@ -43,11 +43,11 @@ Then include in your sketch:
 
 ### 3.Applications
 
-I/O expansion for microcontrollers
+- I/O expansion for microcontrollers
 
-Home automation and relay control
+- Home automation and relay control
 
-Button matrix reading
+- Button matrix reading
 
-Industrial control panels
+- Industrial control panels
 
